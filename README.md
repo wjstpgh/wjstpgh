@@ -2,6 +2,8 @@
 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://chill-radium-cfd.notion.site/Main-e1c53048b3ca4ca89c3bf3992ec2df29)
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
+
 <!--
 **wjstpgh/wjstpgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
