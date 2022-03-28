@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwjstpgh&count_bg=%23433030&title_bg=%23FF0202&icon=telegram.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://github.com/wjstpgh)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjstpgh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjstpgh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://chill-radium-cfd.notion.site/Main-e1c53048b3ca4ca89c3bf3992ec2df29)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sehoJ3756@gmail.com)
