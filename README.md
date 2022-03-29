@@ -2,8 +2,7 @@
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://chill-radium-cfd.notion.site/Main-e1c53048b3ca4ca89c3bf3992ec2df29)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sehoJ3756@gmail.com)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjswjstptpghgh)](https://solved.ac/wjswjstptpghgh)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjswjstptpghgh)](https://solved.ac/wjswjstptpghgh)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjstpgh&show_icons=true&theme=graywhite)](https://www.naver.com/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjstpgh&layout=compact&theme=swift)](https://www.youtube.com/)
