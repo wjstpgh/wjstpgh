@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjstpgh&layout=compact&theme=swift)](https://www.youtube.com/)
 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://chill-radium-cfd.notion.site/Main-e1c53048b3ca4ca89c3bf3992ec2df29)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://chill-radium-cfd.notion.site/Main-e1c53048b3ca4ca89c3bf3992ec2df29)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sehoJ3756@gmail.com)
 
 <!--
