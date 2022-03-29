@@ -3,10 +3,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sehoJ3756@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjstpgh&show_icons=true&theme=graywhite)](https://www.naver.com/)
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjswjstptpghgh">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjstpgh&layout=compact&theme=swift)](https://www.youtube.com/)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
+
 
 <!--
 **wjstpgh/wjstpgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
